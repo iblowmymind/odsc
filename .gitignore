@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Ignore TUBITAK related documents (potentially sensitive? no idea)
+doc/tubitak
+doc/tubitak/*
